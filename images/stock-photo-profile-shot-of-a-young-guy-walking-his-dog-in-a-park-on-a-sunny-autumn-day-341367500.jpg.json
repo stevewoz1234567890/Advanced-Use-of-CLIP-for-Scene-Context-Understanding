@@ -1,0 +1,327 @@
+{
+    "image_name": "stock-photo-profile-shot-of-a-young-guy-walking-his-dog-in-a-park-on-a-sunny-autumn-day-341367500.jpg",
+    "basic_objects": [
+        [
+            "man and dog",
+            0.4018670916557312
+        ],
+        [
+            "person and dog",
+            0.258137047290802
+        ],
+        [
+            "boy and dog",
+            0.12191786617040634
+        ],
+        [
+            "woman and dog",
+            0.07854002714157104
+        ],
+        [
+            "girl and dog",
+            0.0730295404791832
+        ],
+        [
+            "dog and bicycle",
+            0.010114341042935848
+        ],
+        [
+            "dog and tree",
+            0.008859116584062576
+        ],
+        [
+            "man and tree",
+            0.005837698467075825
+        ],
+        [
+            "man and cat",
+            0.005734764505177736
+        ],
+        [
+            "man and bicycle",
+            0.003675573505461216
+        ],
+        [
+            "person and tree",
+            0.003612989094108343
+        ],
+        [
+            "cat and dog",
+            0.0034671167377382517
+        ],
+        [
+            "boy and tree",
+            0.0030345830600708723
+        ],
+        [
+            "person and bicycle",
+            0.0023934664204716682
+        ],
+        [
+            "person and girl",
+            0.0022940076887607574
+        ],
+        [
+            "person and cat",
+            0.0022686400916427374
+        ],
+        [
+            "person and man",
+            0.0013437940506264567
+        ],
+        [
+            "dog and car",
+            0.0013235080987215042
+        ],
+        [
+            "boy and cat",
+            0.0012506606290116906
+        ],
+        [
+            "girl and tree",
+            0.0011101880809292197
+        ],
+        [
+            "boy and bicycle",
+            0.001057072076946497
+        ],
+        [
+            "person and boy",
+            0.0010453268187120557
+        ],
+        [
+            "woman and tree",
+            0.0008813606691546738
+        ],
+        [
+            "girl and man",
+            0.0008468884043395519
+        ],
+        [
+            "person and woman",
+            0.000818256288766861
+        ],
+        [
+            "man and woman",
+            0.0007612222107127309
+        ],
+        [
+            "boy and woman",
+            0.0006563296774402261
+        ],
+        [
+            "girl and boy",
+            0.0005560506251640618
+        ],
+        [
+            "person and car",
+            0.000528650707565248
+        ],
+        [
+            "woman and cat",
+            0.0005094496882520616
+        ],
+        [
+            "man and car",
+            0.0004434981383383274
+        ],
+        [
+            "boy and man",
+            0.00040219619404524565
+        ],
+        [
+            "girl and cat",
+            0.0003892015665769577
+        ],
+        [
+            "woman and bicycle",
+            0.0003007252817042172
+        ],
+        [
+            "boy and car",
+            0.00017058406956493855
+        ],
+        [
+            "girl and woman",
+            0.00013852947449777275
+        ],
+        [
+            "girl and bicycle",
+            0.0001383802737109363
+        ],
+        [
+            "dog and dolphin",
+            7.623842247994617e-05
+        ],
+        [
+            "man and shark",
+            6.17540063103661e-05
+        ],
+        [
+            "person and shark",
+            6.020313230692409e-05
+        ],
+        [
+            "person and dolphin",
+            5.476134174386971e-05
+        ],
+        [
+            "dog and shark",
+            5.014114867663011e-05
+        ],
+        [
+            "woman and car",
+            3.838161865132861e-05
+        ],
+        [
+            "man and dolphin",
+            3.648921483545564e-05
+        ],
+        [
+            "boy and shark",
+            3.159360494464636e-05
+        ],
+        [
+            "girl and car",
+            2.9131384508218616e-05
+        ],
+        [
+            "car and bicycle",
+            2.1323345208656974e-05
+        ],
+        [
+            "girl and shark",
+            1.1193254067620728e-05
+        ],
+        [
+            "cat and tree",
+            1.0884688890655525e-05
+        ],
+        [
+            "boy and dolphin",
+            1.0619878594297916e-05
+        ],
+        [
+            "woman and shark",
+            9.933331966749392e-06
+        ],
+        [
+            "tree and bicycle",
+            9.478470019530505e-06
+        ],
+        [
+            "cat and bicycle",
+            5.894651167182019e-06
+        ],
+        [
+            "woman and dolphin",
+            4.893478489975678e-06
+        ],
+        [
+            "girl and dolphin",
+            3.9912297324917745e-06
+        ],
+        [
+            "car and tree",
+            3.437152372498531e-06
+        ],
+        [
+            "cat and car",
+            3.0754601993976394e-06
+        ],
+        [
+            "bicycle and dolphin",
+            2.9606662792502902e-06
+        ],
+        [
+            "bicycle and shark",
+            2.8014881081617204e-06
+        ],
+        [
+            "tree and shark",
+            2.0161166958132526e-06
+        ],
+        [
+            "tree and dolphin",
+            1.9466101548459847e-06
+        ],
+        [
+            "dolphin and shark",
+            3.2290429885506455e-07
+        ],
+        [
+            "car and shark",
+            2.6613082582116476e-07
+        ],
+        [
+            "cat and shark",
+            2.3648730973491183e-07
+        ],
+        [
+            "car and dolphin",
+            1.5307739431591472e-07
+        ],
+        [
+            "cat and dolphin",
+            1.436754217820635e-07
+        ]
+    ],
+    "inferred_interactions": [
+        [
+            "walking",
+            0.8521634340286255
+        ],
+        [
+            "running",
+            0.12007686495780945
+        ],
+        [
+            "riding a bicycle",
+            0.01659085415303707
+        ],
+        [
+            "playing fetch",
+            0.007129502482712269
+        ],
+        [
+            "capturing a photo",
+            0.003327874466776848
+        ],
+        [
+            "sitting",
+            0.0006324932910501957
+        ],
+        [
+            "driving",
+            7.89967380114831e-05
+        ]
+    ],
+    "deduced_themes": [
+        [
+            "leisure time in a park",
+            0.564134418964386
+        ],
+        [
+            "outdoor exercise",
+            0.43161138892173767
+        ],
+        [
+            "morning commute",
+            0.002996663795784116
+        ],
+        [
+            "urban environment",
+            0.0012538740411400795
+        ],
+        [
+            "aquarium",
+            3.7137190247449325e-06
+        ]
+    ],
+    "dominant_phrases": {
+        "basic_object": "man and dog",
+        "interaction": "walking",
+        "thematic_context": "leisure time in a park"
+    },
+    "summary_text": "man and dog, walking, leisure time in a park"
+}

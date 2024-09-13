@@ -1,0 +1,327 @@
+{
+    "image_name": "young-man-exercise-with-cat-on-his-back-high-res-stock-photography-947552990-1565283958.jpg",
+    "basic_objects": [
+        [
+            "man and cat",
+            0.28872478008270264
+        ],
+        [
+            "man and dog",
+            0.1604771614074707
+        ],
+        [
+            "person and cat",
+            0.13195835053920746
+        ],
+        [
+            "boy and cat",
+            0.1100817620754242
+        ],
+        [
+            "boy and dog",
+            0.09819787740707397
+        ],
+        [
+            "person and dog",
+            0.07974725216627121
+        ],
+        [
+            "cat and dog",
+            0.02803180180490017
+        ],
+        [
+            "dog and dolphin",
+            0.00922389980405569
+        ],
+        [
+            "woman and cat",
+            0.008684923872351646
+        ],
+        [
+            "woman and dog",
+            0.00844819750636816
+        ],
+        [
+            "person and boy",
+            0.006996804848313332
+        ],
+        [
+            "man and dolphin",
+            0.006487583741545677
+        ],
+        [
+            "person and man",
+            0.005887744016945362
+        ],
+        [
+            "boy and man",
+            0.005404474213719368
+        ],
+        [
+            "man and shark",
+            0.005112687591463327
+        ],
+        [
+            "cat and dolphin",
+            0.004916626960039139
+        ],
+        [
+            "cat and shark",
+            0.0047440556809306145
+        ],
+        [
+            "dog and shark",
+            0.003297771094366908
+        ],
+        [
+            "girl and dog",
+            0.00289361784234643
+        ],
+        [
+            "girl and cat",
+            0.002713474677875638
+        ],
+        [
+            "person and dolphin",
+            0.0023051591124385595
+        ],
+        [
+            "dog and car",
+            0.0020010655280202627
+        ],
+        [
+            "boy and woman",
+            0.0016383606707677245
+        ],
+        [
+            "cat and car",
+            0.0016159687656909227
+        ],
+        [
+            "person and woman",
+            0.0016018678434193134
+        ],
+        [
+            "boy and dolphin",
+            0.0015059813158586621
+        ],
+        [
+            "boy and shark",
+            0.001504081068560481
+        ],
+        [
+            "dog and bicycle",
+            0.001399633358232677
+        ],
+        [
+            "person and shark",
+            0.0012874562526121736
+        ],
+        [
+            "man and woman",
+            0.0012702913954854012
+        ],
+        [
+            "man and car",
+            0.0012561650946736336
+        ],
+        [
+            "girl and boy",
+            0.0011174781247973442
+        ],
+        [
+            "cat and bicycle",
+            0.0010330922668799758
+        ],
+        [
+            "girl and man",
+            0.0010273134103044868
+        ],
+        [
+            "person and girl",
+            0.0009281852398999035
+        ],
+        [
+            "man and tree",
+            0.000813822727650404
+        ],
+        [
+            "person and car",
+            0.0007825814536772668
+        ],
+        [
+            "cat and tree",
+            0.0007002903148531914
+        ],
+        [
+            "man and bicycle",
+            0.000575990357901901
+        ],
+        [
+            "dog and tree",
+            0.000506616837810725
+        ],
+        [
+            "boy and car",
+            0.0004026486712973565
+        ],
+        [
+            "person and tree",
+            0.00037009353400208056
+        ],
+        [
+            "person and bicycle",
+            0.00034579579369165003
+        ],
+        [
+            "bicycle and dolphin",
+            0.0003131037810817361
+        ],
+        [
+            "dolphin and shark",
+            0.00022837666620034724
+        ],
+        [
+            "woman and dolphin",
+            0.00022763821471016854
+        ],
+        [
+            "girl and woman",
+            0.0002192045794799924
+        ],
+        [
+            "boy and tree",
+            0.00019726766913663596
+        ],
+        [
+            "bicycle and shark",
+            0.0001374845887767151
+        ],
+        [
+            "tree and dolphin",
+            0.00012105534551665187
+        ],
+        [
+            "boy and bicycle",
+            0.00011154204548802227
+        ],
+        [
+            "woman and shark",
+            0.00010693880904000252
+        ],
+        [
+            "car and bicycle",
+            7.835398719180375e-05
+        ],
+        [
+            "girl and dolphin",
+            5.0246653700014576e-05
+        ],
+        [
+            "tree and shark",
+            4.3073476263089105e-05
+        ],
+        [
+            "girl and shark",
+            3.996510713477619e-05
+        ],
+        [
+            "car and dolphin",
+            2.4992214093799703e-05
+        ],
+        [
+            "car and shark",
+            2.475047040206846e-05
+        ],
+        [
+            "woman and tree",
+            1.7891374227474444e-05
+        ],
+        [
+            "woman and car",
+            1.7497233784524724e-05
+        ],
+        [
+            "woman and bicycle",
+            7.923719749669544e-06
+        ],
+        [
+            "girl and car",
+            4.7843304855632596e-06
+        ],
+        [
+            "car and tree",
+            2.8016779651807155e-06
+        ],
+        [
+            "girl and tree",
+            1.923716581586632e-06
+        ],
+        [
+            "girl and bicycle",
+            1.4384975202119676e-06
+        ],
+        [
+            "tree and bicycle",
+            1.0074754754896276e-06
+        ]
+    ],
+    "inferred_interactions": [
+        [
+            "playing fetch",
+            0.6159902215003967
+        ],
+        [
+            "capturing a photo",
+            0.15447014570236206
+        ],
+        [
+            "sitting",
+            0.13214875757694244
+        ],
+        [
+            "riding a bicycle",
+            0.04084589704871178
+        ],
+        [
+            "running",
+            0.04074723273515701
+        ],
+        [
+            "walking",
+            0.015644032508134842
+        ],
+        [
+            "driving",
+            0.0001536952331662178
+        ]
+    ],
+    "deduced_themes": [
+        [
+            "outdoor exercise",
+            0.9882092475891113
+        ],
+        [
+            "leisure time in a park",
+            0.006701144855469465
+        ],
+        [
+            "morning commute",
+            0.0021615340374410152
+        ],
+        [
+            "urban environment",
+            0.0017979798140004277
+        ],
+        [
+            "aquarium",
+            0.0011299815960228443
+        ]
+    ],
+    "dominant_phrases": {
+        "basic_object": "man and cat",
+        "interaction": "playing fetch",
+        "thematic_context": "outdoor exercise"
+    },
+    "summary_text": "man and cat, playing fetch, outdoor exercise"
+}

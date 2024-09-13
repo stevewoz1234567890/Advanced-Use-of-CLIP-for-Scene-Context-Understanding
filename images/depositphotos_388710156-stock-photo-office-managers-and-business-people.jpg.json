@@ -1,0 +1,327 @@
+{
+    "image_name": "depositphotos_388710156-stock-photo-office-managers-and-business-people.jpg",
+    "basic_objects": [
+        [
+            "person and man",
+            0.2225744128227234
+        ],
+        [
+            "person and woman",
+            0.16901174187660217
+        ],
+        [
+            "person and car",
+            0.1601233333349228
+        ],
+        [
+            "person and boy",
+            0.10845796763896942
+        ],
+        [
+            "man and woman",
+            0.05491478368639946
+        ],
+        [
+            "boy and woman",
+            0.04976775124669075
+        ],
+        [
+            "person and girl",
+            0.04289970174431801
+        ],
+        [
+            "girl and man",
+            0.026579275727272034
+        ],
+        [
+            "person and bicycle",
+            0.021681873127818108
+        ],
+        [
+            "person and dolphin",
+            0.019930550828576088
+        ],
+        [
+            "boy and man",
+            0.01902954652905464
+        ],
+        [
+            "woman and car",
+            0.018050968647003174
+        ],
+        [
+            "man and car",
+            0.014852883294224739
+        ],
+        [
+            "person and dog",
+            0.013948549516499043
+        ],
+        [
+            "person and shark",
+            0.009468586184084415
+        ],
+        [
+            "girl and boy",
+            0.008975233882665634
+        ],
+        [
+            "person and cat",
+            0.0071817548014223576
+        ],
+        [
+            "person and tree",
+            0.006063629407435656
+        ],
+        [
+            "girl and woman",
+            0.0040367599576711655
+        ],
+        [
+            "man and bicycle",
+            0.0034590137656778097
+        ],
+        [
+            "man and dog",
+            0.003420475870370865
+        ],
+        [
+            "man and dolphin",
+            0.0018540634773671627
+        ],
+        [
+            "man and tree",
+            0.0016870751278474927
+        ],
+        [
+            "woman and dog",
+            0.0016796871786937118
+        ],
+        [
+            "woman and shark",
+            0.0015678489580750465
+        ],
+        [
+            "woman and dolphin",
+            0.0013931258581578732
+        ],
+        [
+            "woman and bicycle",
+            0.0013383666519075632
+        ],
+        [
+            "man and cat",
+            0.001151493052020669
+        ],
+        [
+            "girl and car",
+            0.0011212201789021492
+        ],
+        [
+            "man and shark",
+            0.000740302843041718
+        ],
+        [
+            "woman and tree",
+            0.0006822877330705523
+        ],
+        [
+            "woman and cat",
+            0.0006247854325920343
+        ],
+        [
+            "car and bicycle",
+            0.0003209896385669708
+        ],
+        [
+            "boy and car",
+            0.0002986222680192441
+        ],
+        [
+            "girl and dog",
+            0.00014501581608783454
+        ],
+        [
+            "girl and shark",
+            0.0001039889975800179
+        ],
+        [
+            "boy and dog",
+            0.0001018313123495318
+        ],
+        [
+            "girl and cat",
+            7.482992805307731e-05
+        ],
+        [
+            "bicycle and dolphin",
+            7.105703843990341e-05
+        ],
+        [
+            "girl and dolphin",
+            6.27521876594983e-05
+        ],
+        [
+            "dog and car",
+            5.9254365623928607e-05
+        ],
+        [
+            "car and dolphin",
+            5.586982297245413e-05
+        ],
+        [
+            "boy and dolphin",
+            5.2103328926023096e-05
+        ],
+        [
+            "dolphin and shark",
+            4.805814387509599e-05
+        ],
+        [
+            "cat and dog",
+            4.608955350704491e-05
+        ],
+        [
+            "girl and bicycle",
+            4.283577800379135e-05
+        ],
+        [
+            "boy and cat",
+            4.163673293078318e-05
+        ],
+        [
+            "boy and shark",
+            3.906492202077061e-05
+        ],
+        [
+            "car and shark",
+            3.0983781471149996e-05
+        ],
+        [
+            "cat and car",
+            2.5863217160804197e-05
+        ],
+        [
+            "girl and tree",
+            2.3713149857940152e-05
+        ],
+        [
+            "boy and bicycle",
+            2.059721555269789e-05
+        ],
+        [
+            "tree and dolphin",
+            1.3825877431372646e-05
+        ],
+        [
+            "boy and tree",
+            1.2838887414545752e-05
+        ],
+        [
+            "bicycle and shark",
+            1.2272737876628526e-05
+        ],
+        [
+            "car and tree",
+            5.0225712584506255e-06
+        ],
+        [
+            "tree and shark",
+            5.013120244257152e-06
+        ],
+        [
+            "dog and dolphin",
+            4.7218841245921794e-06
+        ],
+        [
+            "dog and bicycle",
+            3.3395758691767696e-06
+        ],
+        [
+            "dog and shark",
+            1.7601366835151566e-06
+        ],
+        [
+            "tree and bicycle",
+            1.7363420283800224e-06
+        ],
+        [
+            "cat and shark",
+            1.372108840769215e-06
+        ],
+        [
+            "cat and dolphin",
+            1.2407680287651601e-06
+        ],
+        [
+            "dog and tree",
+            1.1692231964843813e-06
+        ],
+        [
+            "cat and bicycle",
+            1.017323825180938e-06
+        ],
+        [
+            "cat and tree",
+            4.459826357106067e-07
+        ]
+    ],
+    "inferred_interactions": [
+        [
+            "walking",
+            0.711969792842865
+        ],
+        [
+            "capturing a photo",
+            0.24324576556682587
+        ],
+        [
+            "running",
+            0.02086089737713337
+        ],
+        [
+            "sitting",
+            0.01631172001361847
+        ],
+        [
+            "riding a bicycle",
+            0.0068737114779651165
+        ],
+        [
+            "playing fetch",
+            0.0004075008037034422
+        ],
+        [
+            "driving",
+            0.00033063488081097603
+        ]
+    ],
+    "deduced_themes": [
+        [
+            "outdoor exercise",
+            0.49631041288375854
+        ],
+        [
+            "urban environment",
+            0.253974974155426
+        ],
+        [
+            "morning commute",
+            0.18523916602134705
+        ],
+        [
+            "leisure time in a park",
+            0.06404515355825424
+        ],
+        [
+            "aquarium",
+            0.000430275802500546
+        ]
+    ],
+    "dominant_phrases": {
+        "basic_object": "person and man",
+        "interaction": "walking",
+        "thematic_context": "outdoor exercise"
+    },
+    "summary_text": "person and man, walking, outdoor exercise"
+}

@@ -1,0 +1,327 @@
+{
+    "image_name": "_5e43bc3f-a200-4d07-a189-abb647308323.jpeg",
+    "basic_objects": [
+        [
+            "man and car",
+            0.24651113152503967
+        ],
+        [
+            "dog and car",
+            0.19685320556163788
+        ],
+        [
+            "person and car",
+            0.14234596490859985
+        ],
+        [
+            "man and dog",
+            0.10713404417037964
+        ],
+        [
+            "car and bicycle",
+            0.050192032009363174
+        ],
+        [
+            "person and dog",
+            0.044440120458602905
+        ],
+        [
+            "woman and car",
+            0.03751366212964058
+        ],
+        [
+            "cat and car",
+            0.03192085772752762
+        ],
+        [
+            "boy and car",
+            0.024103080853819847
+        ],
+        [
+            "woman and dog",
+            0.0211023036390543
+        ],
+        [
+            "man and cat",
+            0.01975206844508648
+        ],
+        [
+            "girl and car",
+            0.013506323099136353
+        ],
+        [
+            "boy and dog",
+            0.008691095747053623
+        ],
+        [
+            "person and cat",
+            0.008235772140324116
+        ],
+        [
+            "girl and dog",
+            0.007887369953095913
+        ],
+        [
+            "person and man",
+            0.004731760825961828
+        ],
+        [
+            "car and shark",
+            0.004644366446882486
+        ],
+        [
+            "cat and dog",
+            0.004384225700050592
+        ],
+        [
+            "car and dolphin",
+            0.003611101070418954
+        ],
+        [
+            "person and woman",
+            0.0029513733461499214
+        ],
+        [
+            "woman and cat",
+            0.0027989980299025774
+        ],
+        [
+            "person and boy",
+            0.002102094469591975
+        ],
+        [
+            "man and woman",
+            0.0020195988472551107
+        ],
+        [
+            "person and girl",
+            0.0018698589410632849
+        ],
+        [
+            "girl and cat",
+            0.001246628467924893
+        ],
+        [
+            "boy and cat",
+            0.001218709978275001
+        ],
+        [
+            "boy and man",
+            0.0010605152929201722
+        ],
+        [
+            "girl and man",
+            0.0010571969905868173
+        ],
+        [
+            "boy and woman",
+            0.0009889011271297932
+        ],
+        [
+            "car and tree",
+            0.0006232545129023492
+        ],
+        [
+            "person and bicycle",
+            0.0006157573079690337
+        ],
+        [
+            "man and bicycle",
+            0.0005203921464271843
+        ],
+        [
+            "man and shark",
+            0.00047187620657496154
+        ],
+        [
+            "girl and boy",
+            0.00041354342829436064
+        ],
+        [
+            "person and shark",
+            0.00040100584737956524
+        ],
+        [
+            "girl and woman",
+            0.00031393408426083624
+        ],
+        [
+            "man and tree",
+            0.00023801990028005093
+        ],
+        [
+            "dog and bicycle",
+            0.00021395055227912962
+        ],
+        [
+            "man and dolphin",
+            0.0002066075976472348
+        ],
+        [
+            "person and dolphin",
+            0.0001570703025208786
+        ],
+        [
+            "bicycle and dolphin",
+            0.00013251743803266436
+        ],
+        [
+            "dog and dolphin",
+            0.00011567574256332591
+        ],
+        [
+            "woman and shark",
+            0.00011136188550153747
+        ],
+        [
+            "dog and shark",
+            7.400564209092408e-05
+        ],
+        [
+            "girl and shark",
+            7.308278873097152e-05
+        ],
+        [
+            "person and tree",
+            5.7756376918405294e-05
+        ],
+        [
+            "woman and bicycle",
+            5.525171218323521e-05
+        ],
+        [
+            "boy and shark",
+            5.028385203331709e-05
+        ],
+        [
+            "bicycle and shark",
+            4.101004378753714e-05
+        ],
+        [
+            "cat and shark",
+            3.3841177355498075e-05
+        ],
+        [
+            "dog and tree",
+            3.2841810025274754e-05
+        ],
+        [
+            "woman and tree",
+            3.229196954634972e-05
+        ],
+        [
+            "boy and bicycle",
+            2.0607461920008063e-05
+        ],
+        [
+            "woman and dolphin",
+            1.677789077803027e-05
+        ],
+        [
+            "cat and bicycle",
+            1.592151056684088e-05
+        ],
+        [
+            "cat and dolphin",
+            1.5004419765318744e-05
+        ],
+        [
+            "dolphin and shark",
+            1.2263102689757943e-05
+        ],
+        [
+            "cat and tree",
+            1.084074392565526e-05
+        ],
+        [
+            "girl and dolphin",
+            1.0471476343809627e-05
+        ],
+        [
+            "boy and dolphin",
+            1.038877871906152e-05
+        ],
+        [
+            "boy and tree",
+            9.509542906016577e-06
+        ],
+        [
+            "girl and tree",
+            6.907745046191849e-06
+        ],
+        [
+            "girl and bicycle",
+            5.9599278756650165e-06
+        ],
+        [
+            "tree and shark",
+            3.002564199050539e-06
+        ],
+        [
+            "tree and dolphin",
+            1.9773683561652433e-06
+        ],
+        [
+            "tree and bicycle",
+            7.212369155240594e-07
+        ]
+    ],
+    "inferred_interactions": [
+        [
+            "driving",
+            0.4981880486011505
+        ],
+        [
+            "walking",
+            0.25756582617759705
+        ],
+        [
+            "running",
+            0.14678514003753662
+        ],
+        [
+            "riding a bicycle",
+            0.04527943581342697
+        ],
+        [
+            "sitting",
+            0.0326726995408535
+        ],
+        [
+            "capturing a photo",
+            0.013547386042773724
+        ],
+        [
+            "playing fetch",
+            0.005961432587355375
+        ]
+    ],
+    "deduced_themes": [
+        [
+            "urban environment",
+            0.7221473455429077
+        ],
+        [
+            "morning commute",
+            0.1909143477678299
+        ],
+        [
+            "leisure time in a park",
+            0.06156490370631218
+        ],
+        [
+            "outdoor exercise",
+            0.022182628512382507
+        ],
+        [
+            "aquarium",
+            0.003190795425325632
+        ]
+    ],
+    "dominant_phrases": {
+        "basic_object": "man and car",
+        "interaction": "driving",
+        "thematic_context": "urban environment"
+    },
+    "summary_text": "man and car, driving, urban environment"
+}
